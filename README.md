@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on [muffin-wallet](https://github.com/adan1lov/muffin-wallet) and [muffin-wallet-ui](https://github.com/adan1lov/muffin-wallet-ui)
 
+- 🌱 I’m currently learning keycloak oauth2
+
 <!--
 **adan1lov/adan1lov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
